@@ -234,7 +234,7 @@ Ensure `VITE_API_URL` (if used) points to your live backend.
 
 ## 🧾 License
 
-MIT License © 2025 — Padmashali Community Center (Creayaa Technologies)
+MIT License © 2025 — Padmashali Community Center (Creayaa Private Limited)
 
 ---
 
